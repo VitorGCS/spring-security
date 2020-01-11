@@ -7,7 +7,7 @@
 <title>luv2code Company Home Page</title>
 </head>
 <body>
-	<h2>luv2code Company Home Page</h2>
+	<h2>luv2code Company Home Page - Yoohoo - Siily Gosse - NO SOUP!!!</h2>
 	<hr>
 	Welcome to the luv2code company home page
 </body>
